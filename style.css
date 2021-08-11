@@ -1,0 +1,26 @@
+.for-bg{
+    background-color: #fceac8;
+    height: 450px;
+    
+}
+
+.img1{
+    height: 350px;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.price{
+    color: salmon;
+    margin-bottom: 18px;
+}
+.button-buy-now{
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+}
